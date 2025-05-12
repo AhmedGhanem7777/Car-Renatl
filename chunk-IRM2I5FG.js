@@ -1,0 +1,1 @@
+import{Bb as t,Cb as a,Rb as s,bb as o}from"./chunk-SBWLFRXJ.js";var p=class e{static \u0275fac=function(n){return new(n||e)};static \u0275cmp=o({type:e,selectors:[["app-not-found"]],standalone:!1,decls:2,vars:0,template:function(n,m){n&1&&(t(0,"p"),s(1,"not-found works!"),a())},encapsulation:2})};export{p as a};
